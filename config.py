@@ -1,12 +1,12 @@
-api_id = 10263857
+api_id = 1747265
 
-api_hash = "fb26b012190c60f071297370b55e48df"
+api_hash = "47f031293f55361c76c27da11916179b"
 
-bot_token = "6044778105:AAGnf7veYGSbOu9MWAWN49OMwHGXlFkDF4s"
+bot_token = "5776905845:AAGP79UWcMhxa5bv0VYJLaXbvrYN_ajErQY"
 
-GROUP_TAG = "RC"
+GROUP_TAG = "PKG"
 
-sudo_users = [5603885669]
+sudo_users = [6146726705]
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
