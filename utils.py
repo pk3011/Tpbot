@@ -21,7 +21,7 @@ dirName = os.path.basename(dirPath)
 
 def get_tplay_data():
 
-    tplay_data_file_path = dirPath + "/tplay_data.json"
+    tplay_data_file_path = dirPath + "/data.json"
     json_data = open(tplay_data_file_path, "r", encoding="utf8")
     json_data = json.loads(json_data.read())
     return json_data
